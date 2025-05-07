@@ -114,7 +114,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/OwaisK4/QCNN
+   git clone https://github.com/OwaisK4/Sarcasm-Detection-using-LSTM
    ```
 2. Install dependencies
    ```sh
